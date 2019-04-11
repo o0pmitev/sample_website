@@ -1,0 +1,43 @@
+.div_style {
+  text-align: right;
+}
+
+.nav_text { 
+  margin: 0 0 0 10px; text-decoration: none;
+}
+
+.nav_index {
+  text-decoration: none;
+}
+
+.twitter_img {
+  text-decoration: none;
+}
+
+.blockquote__style {
+  padding: 2px 20px; background: #fafafa;
+}
+
+.header_style {
+  text-align: center; margin: 0 0 80px;
+}
+
+.sperm_whale_img {
+  display:block; margin: 0 auto;
+}
+
+.moby_dick_book {
+  width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+
+.moby_dick_book img {
+  style="float: left; margin: 0 40px 0 0;
+}
+
+.blockquote_moby_dick {
+  font-style: italic; font-size: 20px;
+}
+
+.blockquote__moby_dick_span {
+  font-style: normal; font-size: 24px; font-weight: bold; color:#ff0000;
+}
